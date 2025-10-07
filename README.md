@@ -4,5 +4,12 @@
 - 👯 I’m looking to collaborate on BLOCKCHAIN
 - 🤔 I’m looking for help with Daaps
 - 💬 Ask me about FC BARCELONA
--->
-(https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+---
+<h1 align="center"> 🌀 Airdrop Base 🌀 </h1> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=2F9CF1&center=true&vCenter=true&lines=Welcome+to+DEXXXCA's+Base!;Claim+your+Airdrop!;Powered+by+Base+Blockchain!" /> 
+</p> 
+--- ### 🧠 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dexxxca&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+--- ### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/dexxxca/dexxxca/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ---
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxxca&theme=react-dark&bg_color=0D1117&color=2F9CF1&line=2F9CF1&point=FFFFFF&area=true&hide_border=true" />
+</p>
