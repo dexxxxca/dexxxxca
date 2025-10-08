@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BASE 
 - 👯 I’m looking to collaborate on BLOCKCHAIN
-- 🤔 I’m looking for help with Daaps
+- 🤔 I’m looking for help with DAPPs
 - 💬 Ask me about FC BARCELONA
 ---
 <h1 align="center"> 🌀 Airdrop Base 🌀 </h1> 
