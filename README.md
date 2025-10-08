@@ -8,8 +8,8 @@
 <h1 align="center"> 🌀 Airdrop Base 🌀 </h1> 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=2F9CF1&center=true&vCenter=true&lines=Welcome+to+DEXXXXCA's+Base!;Claim+your+Airdrop!;Powered+by+Base+Blockchain!" /> 
 </p> 
---- ### 🧠 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dexxxxca&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dexxxxca&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
---- ### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/dexxxxca/dexxxxca/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ---
+<p align="center"> <img src="https://raw.githubusercontent.com/dexxxxca/dexxxxca/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ---
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxxxca&theme=react-dark&bg_color=0D1117&color=2F9CF1&line=2F9CF1&point=FFFFFF&area=true&hide_border=true" />
 </p>
