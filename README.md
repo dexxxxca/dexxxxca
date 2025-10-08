@@ -6,7 +6,7 @@
 - 💬 Ask me about FC BARCELONA
 ---
 <h1 align="center"> 🌀 Airdrop Base 🌀 </h1> 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=2F9CF1&center=true&vCenter=true&lines=Welcome+to+DEXXXXCA's+Base!;Claim+your+Airdrop!;Powered+by+Base+Blockchain!" /> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=2F9CF1&center=true&vCenter=true&lines=DEXCA.BASE.ETH!;Claim+your+Airdrop!;Powered+by+Base+Blockchain!" /> 
 </p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dexxxxca&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
