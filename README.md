@@ -10,6 +10,6 @@
 </p> 
 --- ### 🧠 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dexxxxca&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
---- ### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/dexxxca/dexxxxca/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ---
+--- ### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/dexxxxca/dexxxxca/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ---
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxxxca&theme=react-dark&bg_color=0D1117&color=2F9CF1&line=2F9CF1&point=FFFFFF&area=true&hide_border=true" />
 </p>
