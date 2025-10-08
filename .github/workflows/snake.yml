@@ -12,16 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generating Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dexxxxca
           outputs: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 2F9CF1
-          snake_head_color: 00FFFF
-          snake_tail_color: 0044FF
 
-      - name: Push to output branch
+      - name: Push Snake Animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
